@@ -1,0 +1,1077 @@
+body{
+    background-color: black;
+    color: white;
+    
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+  
+.nav{
+    margin-top: 15px;
+    padding-bottom: 50px;
+    top: 0px;
+    position: sticky;
+    background-color: black;
+    z-index: 4;
+    
+
+    
+}
+
+.austine{
+    font-size: 30px;
+    font-weight: bolder;
+    margin-left: 100px;
+    
+}
+
+.home{
+    margin-left: 300px;
+}
+
+.about{
+    margin-left: 20px;
+}
+
+.resume{
+    margin-left: 20px;
+    
+}
+
+.service{
+    margin-left: 20px;
+}
+
+.skill{
+    margin-left: 20px;
+}
+.project{
+    margin-left: 20px;
+}
+
+.blog{
+    margin-left: 20px;
+}
+
+.contact{
+    margin-left: 20px;
+}
+
+.head{
+    /* display: flex; */
+    /* flex-direction: column; */
+    font-size: 35px;
+    margin-top: 80px;
+    margin-left: 100px;
+    
+}
+
+.head h1{
+    
+    text-align: left;
+
+}
+
+.first{
+    display: flex ;
+    padding: auto;
+    line-height: 50px;
+}
+
+img{
+    width: 500px;
+    margin-left: 200px;
+    margin-top: 110px;
+    height: 480px;
+    object-fit: cover;
+}
+
+span{
+    color: yellow;
+    text-align: left;
+}
+
+
+
+button{
+    padding: 15px;
+    border-radius: 20px;
+    background-color: yellow;
+    width: 110px;
+    font-weight: 800px;
+    
+}
+
+.press{
+    background-color: black;
+    color: white;
+    border: 1px solid grey;
+    width: 130px;
+    height: 50px;
+}
+
+.click{
+    margin-left: 100px;
+    margin-top: -60px;
+}
+
+.image{
+    margin-left: 100px;
+    object-fit: cover;
+    margin-top: 110px;
+}
+
+.content{
+    position: absolute;
+    right: 30px;
+    margin-top: -20px
+    width: 600px;
+    font-size: 20px;
+}
+
+.content> h4+h4{
+    line-height: 1px;
+    
+}
+
+.content h4{
+    vertical-align: left;
+}
+
+.content h1{
+    text-align: left;
+}
+
+h1{
+    font-size: 50px;
+    text-align: center;
+
+}
+
+h4{
+    color: grey;
+    text-align: justify;
+
+}
+
+b{
+    color: white;
+    margin-right: 80px;
+    
+}
+
+h3{
+    margin-top: 50px;
+    color: grey;
+}
+
+.download{
+    margin-top: 5px;
+    width: 170px;
+    height: 60px;
+    border-radius: 50px;
+}
+
+.pixel img{
+    width: 550px;
+}
+
+
+
+.cv h1{
+    text-align: center;
+    color: white;
+    margin-top: 30px;
+    
+    
+}
+
+.cv{
+    text-align: center;
+    color: grey;
+    padding: 170px;
+
+}
+
+.main{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    width: 90%;
+    margin: auto;
+    justify-content: left;
+}
+
+.master{
+    display: inline-block;
+    background-color: rgb(31, 28, 28);
+    width: 500px;
+    padding: 40px;
+}
+
+.master h1{
+    text-align: left;
+}
+
+.art{
+    display: inline-block;
+    background-color: rgb(31, 28, 28);
+    width: 500px;
+    padding: 40px;
+}
+
+.art h1{
+    text-align: left;
+}
+
+.degree{
+    display: inline-block;
+    background-color: rgb(31, 28, 28);
+    width: 500px;
+    padding: 40px;
+}
+
+.degree h1{
+    text-align: left;
+}
+
+.develop{
+    display: inline-block;
+    background-color: rgb(31, 28, 28);
+    width: 500px;
+    padding: 40px;
+}
+
+.develop h1{
+    text-align: left;
+
+}
+
+.computer{
+    display: inline-block;
+    background-color: rgb(31, 28, 28);
+    width: 500px;
+    padding: 40px;
+}
+
+.computer h1{
+    text-align: left;
+}
+
+.design{
+    display: inline-block;
+    background-color: rgb(31, 28, 28);
+    width: 500px;
+    padding: 40px;
+}
+
+.design h1{
+    text-align: left;
+}
+
+.hold{
+    display: flex;
+    margin: auto;
+    width: 200px;
+    padding-left: 50px;
+    height: 60px;
+    border-radius: 40px;
+    font-size: 16px;
+    font-weight: normal;
+    margin-top: 70px;
+    margin-bottom: 200px;
+}
+
+.master h1{
+    font-size: 30px;
+}
+
+.art h1{
+    font-size: 30px;
+}
+
+.degree h1{
+    font-size: 30px;
+}
+
+.develop h1{
+    font-size: 30px;
+}
+
+.computer h1{
+    font-size: 30px;
+}
+
+.design h1{
+    font-size: 30px;
+}
+
+.work{
+    text-align: center;
+    color: white;
+    margin-top: 30px;
+    
+}
+
+.work h1{
+    text-align: center;
+    color: grey;
+    margin-top: ;
+}
+
+.icon{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    width: 90%;
+    margin: auto;
+}
+
+.search{
+    display: flex;
+    background-color: rgb(31, 28, 28); 
+    width: 380px;
+    height: 220px ;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.search a{
+    font-size: 60px;
+    color: yellow;
+}
+
+.search h3{
+    padding: 10px;
+    border-bottom: 1px solid yellow;
+}
+
+.search:hover{
+    color: black;
+    background: yellow;
+    
+}
+
+.search:hover i{
+    color: white;
+    transition: color 0.9s ease;
+    font-size: 80px;
+}
+    
+.search:hover h3{
+    color: black;
+    border-color: black;
+    transition: color 0.9s ease;
+    font-size: 20px;
+}
+
+
+.potion{
+    display: flex;
+    background-color: rgb(31, 28, 28); 
+    width: 380px;
+    height: 220px ;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.potion a{
+    font-size: 50px;
+    color: yellow;
+}
+
+.potion h3{
+    padding: 10px;
+    border-bottom: 1px solid yellow;
+}
+
+.potion:hover{
+    background: yellow;
+    
+}
+
+.potion:hover i{
+    color: white;
+    transition: color 0.9s ease;
+    font-size: 70px;
+}
+    
+.potion:hover h3{
+    color: black;
+    border-color: black;
+    transition: color 0.9s ease;
+    font-size: 20px;
+}
+
+.box{
+    display: flex;
+    background-color: rgb(31, 28, 28); 
+    width: 380px;
+    height: 220px ;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+.box a{
+    font-size: 50px;
+    color: yellow;
+}
+   
+.box h3{
+    padding: 10px;
+    border-bottom: 1px solid yellow;
+
+}
+
+.box:hover{
+    background: yellow;
+    
+}
+
+.box:hover i{
+    color: white;
+    transition: color 0.9s ease;
+    font-size: 70px;
+
+}
+    
+.box:hover h3{
+    color: black;
+    border-color: black;
+    transition: color 0.9s ease;
+    font-size: 20px;
+}
+
+.searchs{
+    display: flex;
+    background-color: rgb(31, 28, 28); 
+    width: 380px;
+    height: 220px ;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+    
+.searchs a{
+    font-size: 60px;
+    color: yellow;
+}
+
+.searchs h3{
+    padding: 10px;
+    border-bottom: 1px solid yellow;
+}
+
+
+.searchs:hover{
+
+    background: yellow;
+    
+}
+
+.searchs:hover i{
+    color: white;
+    transition: color 0.9s ease;
+    font-size: 80px;
+}
+    
+.searchs:hover h3{
+    color: black;
+    border-color: black;
+    transition: color 0.9s ease;
+    font-size: 20px;
+}
+
+.potions{
+    display: flex;
+    background-color: rgb(31, 28, 28); 
+    width: 380px;
+    height: 220px ;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.potions a{
+    font-size: 50px;
+    color: yellow;
+}
+
+.potions h3{
+    padding: 10px;
+    border-bottom: 1px solid yellow;
+}
+
+
+.potions:hover{
+    color: black;
+    background: yellow;
+    
+}
+
+.potions:hover i{
+    color: white;
+    transition: color 0.9s ease;
+    font-size: 70px;
+}
+    
+.potions:hover h3{
+    color: black;
+    border-color: black;
+    transition: color 0.9s ease;
+    font-size: 20px;
+}
+
+.boxs{
+    display: flex;
+    background-color: rgb(31, 28, 28); 
+    width: 380px;
+    height: 220px ;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+    
+.boxs a{
+    font-size: 50px;
+    color: yellow;
+}
+
+.boxs h3{
+    padding: 10px;
+    border-bottom: 1px solid yellow;
+}
+
+
+.boxs:hover{
+    color: black;
+    background: yellow;
+    transition: color 0.5s ease;
+    
+}
+
+.boxs:hover i{
+    color: white;
+    transition: color 0.5s ease;
+    font-size: 70px;
+
+}
+    
+.boxs:hover h3{
+    color: black;
+    border-color: black;
+    transition: color 0.9s ease;
+    font-size: 20px;
+}
+
+
+.topic h1{
+    margin-top: 250px;
+}
+
+.topics h3{
+    text-align: center;
+}
+
+.percent{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    justify-items: center;
+    gap: 30px;
+    /* margin-left: 60px; */
+    width: 100%;
+
+
+}
+
+
+
+.photoshop>h2{
+    word-spacing:285px;
+}
+
+.mini>.shop{
+    height: 10px;
+    width: 445px;
+    background-color: yellow;
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+}
+
+.mini{
+    height: 10px;
+    width: 500px;
+    background-color: rgb(31, 28, 28);
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    
+    
+}
+
+
+.jq{
+    word-spacing:270px;
+}
+
+.query>.sql{
+    height: 10px;
+    width: 400px;
+    background-color: yellow;
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+}
+
+.query{
+    height: 10px;
+    width: 500px;
+    background-color: rgb(31, 28, 28);
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    
+    
+}
+
+
+
+.html{
+    word-spacing: 335px;
+}
+
+.hyper>.ml{
+    height: 10px;
+    width: 475px;
+    background-color: yellow;
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+}
+
+.hyper{
+    height: 10px;
+    width: 500px;
+    background-color:  rgb(31, 28, 28);
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    
+    
+}
+
+
+.css{
+    word-spacing:345px;
+}
+
+
+.chemical>.react{
+    height: 10px;
+    width: 445px;
+    background-color: yellow;
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+}
+
+.chemical{
+    height: 10px;
+    width: 500px;
+    background-color:  rgb(31, 28, 28);
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.word{
+    word-spacing:180px;
+}
+
+
+.broad>.news{
+    height: 10px;
+    width: 350px;
+    background-color: yellow;
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+}
+
+.broad{
+    height: 10px;
+    width: 500px;
+    background-color:  rgb(31, 28, 28);
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+
+
+.seo{
+    word-spacing:275px;
+}
+
+
+
+
+.fu>.kung{
+    height: 10px;
+    width: 375px;
+    background-color: yellow;
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+}
+
+.fu{
+    height: 10px;
+    width: 500px;
+    background-color:  rgb(31, 28, 28);
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.album{
+    margin-top: 100px;
+    
+}
+
+.trade{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.draw{
+    height: 300px;
+    width: 330px;
+    margin-left: 100px;
+}
+
+.brand{
+    width: 775px;
+    margin-left:  30px;
+    height: 300px;
+    padding-bottom: 0px;
+}
+
+.animal{
+    margin-top: 30px;
+    width: 700px;
+    margin-left: 100px ;
+    height: 350px;
+}
+
+.room{
+    width: 400px;
+    height: 350px;
+    position: absolute;
+    right: 105px;
+    margin-top: 440px;
+    
+    
+}
+
+.phone{
+    margin-top: 30px;
+    width: 700px;
+    margin-left: 100px ;
+    height: 350px;
+}
+
+.watch{
+    width: 400px;
+    height: 350px;
+    position: absolute;
+    right: 105px;
+    margin-top: 820px;
+}
+
+.push{
+    margin-top: 100px;
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
+    width: 100%;
+}
+
+.key{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 50px;
+    
+    
+    
+    
+    
+}
+
+
+.ceo>img{
+    width: 370px;
+    height: 350px;
+    margin-left: 0px;
+    
+    
+}
+
+.business{
+    width: 370px;
+    height: 150px;
+    margin-left: 0px;
+}
+
+.business>h4{
+    color: yellow;
+
+}
+
+
+
+.group>img{
+
+    width: 350px;
+    height: 350px;
+    margin-left: 50px;
+
+}
+.meet{
+    width: 300px;
+    margin-left: 50px
+}
+
+.meet>h4{
+    color: yellow;
+}
+
+    
+.income>img{
+    width: 370px;
+    height: 350px;
+    margin-left: 50px;
+}
+
+.lead{
+    width: 300px;
+    height: -70px;
+    margin-left: 50px;
+}
+
+.lead>h4{
+    color: yellow;
+}
+
+.light>i{
+    color: yellow;
+    margin-left: 20px;
+}
+
+
+.item{
+    width: 100%;
+    display: flex;
+    margin-top: 150px;
+    z-index: 2;
+    
+
+    
+}
+
+.cup{
+    margin-left: 40px;
+    width: 280px;
+    height: 150px;
+    background-color:  rgb(31, 28, 28);
+    
+    
+}
+
+.cup>h1{
+    font-size: xx-large;
+    color: yellow;
+    margin-top: 40px;
+
+}
+
+.cup>h3{
+    text-align: center;
+    margin-top: 5px;
+    color: white;
+}
+
+.happy{
+    background-image:url(/dark\ theme\ forest.jpg) ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    /* width: 5000px; */
+    width: 100%;
+    height: 90vh;
+    margin-top: -50px;
+    
+}
+
+.cafe{
+    text-align: center;
+    text-shadow: 2px 2px rgb(248, 248, 244);
+
+}
+
+.cafe>h1{
+    color: yellow;
+    text-shadow: 2px 2px black;
+}
+
+.cafe>h3{
+  color: black;
+}
+
+.cafe>.bot{
+    border: 0;
+}
+
+.me{
+    margin-top: 200px;
+}
+
+
+.compass{
+    width: 100%;
+    display: flex;
+    gap: 120px;
+    margin-top: 150px;
+    z-index: 2;    
+}
+
+.compass a{
+    color: yellow;
+    font-size: 30px;
+    background-color:  rgb(31, 28, 28);
+    /* padding: 35px 35px; */
+    width: 80px;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50% ;
+    margin-left:15px;
+    
+}
+
+
+
+.west{
+    margin-right: -250px;
+    margin-left: 180px;
+    
+    
+    
+}
+
+.north{
+    margin-left: 200px;
+
+}
+
+
+
+
+
+.form{
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+    width: 580px;
+    height: 550px;
+    background-color: white;
+    margin-top: 110px;
+    
+    
+}
+
+
+.info{
+    display: flex;
+    margin-bottom: 60px;
+}
+
+.info img{
+    width: 580px;
+    height: 550px;
+    margin-left: 30px;
+    object-fit: cover;
+
+}
+    
+
+#yname{
+    padding: 18px;
+    margin: 40px;
+    font-size: 15px;
+}
+   
+#ymail,#subject{
+    padding: 18px;
+    margin: 40px;
+    margin-top: -20px;
+    font-size: 15px;
+}
+
+#msg{
+    padding: 15px;
+    margin: 40px;
+    margin-top: -20px;
+    height: 150px;
+    font-size: 17px;
+
+}
+
+
+.form>button{
+    border: none;
+    width: 180px;
+    margin-left: 40px;
+    font-weight: bold;
+
+}
+
+
+.note{
+    display: flex;
+    gap:10px;
+
+}
+
+.ink{
+    width: 250px;
+}
+
+.note h3{
+    margin: 10px;
+    padding: 10px;
+    line-height: 15px;
+}
+
+.out{
+    text-align: left;
+    width: 400px;
+}
+
+.out>h3{
+    line-height: 30px;
+}
+
+.social{
+margin-top: 150px;
+}
+    
+.social>a{
+    font-size: 25px;
+    border-radius: 50%;
+    background-color:  rgb(31, 28, 28);
+    height: 50px;
+    width: 50px;
+    padding: 20px;
+    
+}
