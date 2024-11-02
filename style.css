@@ -38,6 +38,16 @@ a{
     
 }
 
+.appear{
+    display: none;
+}
+
+
+
+
+
+
+
 .home{
     margin-left: 8%;
 }
@@ -129,7 +139,7 @@ button{
 }
 
 .fiction .throw{
-    margin-left: 315px;
+    margin-left: 370px;
     object-fit: cover;
     margin-top: 40%;
     width: 120%;
@@ -212,7 +222,7 @@ h3{
     color: grey;
     padding: 170px;
     margin-top: 1000px;
-    width: 120%;
+    width: 140%;
 
 }
 
@@ -220,7 +230,7 @@ h3{
     display: flex;
     flex-wrap: wrap;
     gap: 20px;
-    width: 211%;
+    width: 220%;
     justify-content: center;
 
 }
@@ -330,14 +340,14 @@ h3{
 }
 
 .game{
-    width: 200%;
+    width: 220%;
 }
 
 .work{
     text-align: center;
     color: white;
     margin-top: 30px;
-    width: 190%;
+    width: 220%;
 }
     
 
@@ -346,10 +356,8 @@ h3{
     display: flex;
     flex-wrap: wrap;
     gap: 20px;
-    width: 190%;
+    width: 220%;
     justify-content: center;
-
-    
 }
 
 .search{
@@ -760,7 +768,7 @@ h3{
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
-    width: 200%;
+    width: 220%;
 
 
 }
@@ -788,11 +796,11 @@ h3{
 }
 
 .room{
-    width: 92%;
+    width: 102%;
     height: 57%;
     position: absolute;
     margin-top: 0px;
-    margin-left:330px;
+    margin-left:475px;
 
     
 }
@@ -808,7 +816,7 @@ h3{
     width: 45.5%;
     height: 350px;
     margin-left:53%;
-    margin-top: -55.9%;
+    margin-top: -38.5%;
 }
 
 .push{
@@ -816,7 +824,7 @@ h3{
     text-align: center;
     justify-content: center;
     justify-items: center;
-    width: 200%;
+    width: 220%;
 
 }
 
@@ -826,7 +834,7 @@ h3{
     margin-top: 50px;
     justify-content: center;
     text-align: center;
-    width: 200%;
+    width: 220%;
     
 }
 
@@ -901,7 +909,7 @@ h3{
 .item{
     width: 200%;
     display: block;
-    margin-top: -191%;
+    margin-top: -131%;
     z-index: 2;
     justify-items: center;
 }
@@ -924,7 +932,6 @@ h3{
 
 .cup>h3{
     text-align: center;
-    margin-top: 5px;
     color: white;
 }
 
@@ -933,16 +940,18 @@ h3{
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    /* width: 5000px; */
     width: 200%;
     height: 150vh;
-    margin-top: 120%;
+    margin-top: 100%;
+    margin-left: 12%;
+
     
 }
 
 .cafe{
     text-align: center;
     text-shadow: 2px 2px 2px rgb(17, 17, 0);
+
     
 
 }
@@ -950,6 +959,7 @@ h3{
 .cafe>h1{
     color: yellow;
     text-shadow: 2px 2px black;
+    
 }
 
 .cafe>h3{
@@ -962,18 +972,19 @@ h3{
 }
 
 .me{
-    margin-top: 50%;
+    margin-top: 140%;
     text-align: center;
-    width: 200%;
+    width: 220%;
 }
 
 
 .compass{
-    width: 100%;
+    width: 220%;
     display: flex;
     gap: 4px;
     margin-top: 150px;
     z-index: 2; 
+    justify-content: center;
 }
 
 .compass a{
@@ -1010,9 +1021,9 @@ h3{
     gap: 0px;
     height: 550px;
     background-color: white;
-    /* background-color: red; */
-    margin-left: 20%;
+    margin-left: 50%;
     padding: 30%;
+    
 }
 
 
@@ -1091,12 +1102,14 @@ h3{
 
 .out>h2{
     text-align: center;
-    width: 100%;
+    width: 110%;
     font-size: 250%;
 }
 
 .out>h3{
     line-height: 30px;
+    width: 110%;
+    text-align: center;
 }
 
 .vice{
@@ -1107,6 +1120,7 @@ margin-top: 80px;
 margin-bottom: 100px;
 display: flex;
 justify-content: center;
+width: 110%;
 
 }
     
@@ -1122,12 +1136,12 @@ justify-content: center;
 
 .flex{
     display: flex;
-    width: 200%;
+    width: 221%;
 }
 
 .foot{
     text-align: center;
-    width: 200%;
+    width: 220%;
 }
 
 }
